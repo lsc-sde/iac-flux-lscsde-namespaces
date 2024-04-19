@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  labels:
+    kubernetes.io/metadata.name: ${name}
+    lsc-sde.io/injectJupyterCertificates: "${inject_jupyter_certificates}"
+  name: ${name}
