@@ -1,6 +1,7 @@
 ---
-title: FluxCD
-parent: Namespaces
+title: Namespaces
+parent: FluxCD
+grand_parent: Supporting Services
 layout: page
 ---
 
